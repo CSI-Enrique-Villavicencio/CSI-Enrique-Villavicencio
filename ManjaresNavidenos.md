@@ -32,7 +32,5 @@
 ### Video: 
 https://www.youtube.com/watch?v=s9yWg0x18fc
 
-<br>
-
 #### Referencias: 
 https://www.recetasnestle.com.co/recetas/torta-de-tres-leches
