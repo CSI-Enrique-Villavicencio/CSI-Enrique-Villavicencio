@@ -1,7 +1,12 @@
+<div align="center">
+ 
 <img src="https://www.livewellbakeoften.com/wp-content/uploads/2020/12/Tres-Leches-Cake-10s-new.jpg" width="520" height="374" />
  
 # Manjares Navidenos
 ## Tres Leches
+ 
+</div>
+ 
 ### Ingredientes: 
 - 🧂 1/2 taza de azucar blanca 
 - 🥚 5 huevos
@@ -12,7 +17,7 @@
 - 10 cucharadas de CREMA DE LECHE NESTLE
 - 10 cuharadas de LECHE CONDENSADA LA LECHERA
 
-### Procedimientos: 
+#### Procedimientos: 
 1. Para el bizcochuelo, batir las claras hasta formar picos firmes. 
 2. Agregar la sal y el azucar en forma de lluvia y batir hasta obtener un merengue. 
 3. Anadir la escencia de vainilla y las yemas. 
@@ -24,5 +29,9 @@
 9. Decorar con crema batida y espolvorear con canela. 
 10. Servir cortada en cuadrados.
 
-#### Referencias: 
+##### Video: 
+https://www.youtube.com/watch?v=s9yWg0x18fc
+
+<br>
+###### Referencias: 
 https://www.recetasnestle.com.co/recetas/torta-de-tres-leches
